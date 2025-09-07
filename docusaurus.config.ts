@@ -48,7 +48,7 @@ const config: Config = {
                     rehypePlugins: [ rehypeKatex ],
                     sidebarPath: './sidebars.ts',
                     editUrl:
-                        'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/'
+                        'https://github.com/WebArtistryBAID/baid-guide/tree/main/'
                 },
                 blog: false,
                 theme: {

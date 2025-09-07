@@ -30,9 +30,8 @@ const config: Config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
 
-    // Even if you don't use internationalization, you can use this field to set
-    // useful metadata like html lang. For example, if your site is Chinese, you
-    // may want to replace "en" with "zh-Hans".
+    trailingSlash: false,
+
     i18n: {
         defaultLocale: 'zh-Hans',
         locales: [ 'zh-Hans' ]
@@ -59,7 +58,6 @@ const config: Config = {
     ],
 
     themeConfig: {
-        // Replace with your project's social card
         image: 'img/social-card.png',
         navbar: {
             title: 'The BAID Survival Guide'

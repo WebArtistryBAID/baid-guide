@@ -42,8 +42,7 @@ slug: courses
 | 综合英语强化       | 不明                          | 普通 | 否  | 额外的综合英语课时                             |
 | 综合英语         | Integrated English          | 普通 | 是  | 根据开学考试分班；第一学期托福，第二学期一班可选 ACT 语法       |
 | 竞赛物理         | Competition Physics         | 荣誉 | 否  | 选修，和选修课在相同时间                          |
-| 基础数学         | Mathematics                 | 普通 | 部分 | 根据开学考试确定是分配基础数学还是 AP Precalculus，不能自选 |
-| AP 预备微积分     | AP Precalculus              | AP | 部分 | 同上                                    |
+| AP 预备微积分     | AP Precalculus              | AP | 是 | 必修的数学课程                                    |
 | AP 微观经济      | AP Microeconomics           | AP | 否  | 根据试听结果的测试决定能否继续参加                     |
 | AP Seminar   | AP Seminar                  | AP | 否  | 根据开学考试确定分配 EFL 还是 AP Seminar，不能自选     |
 | AP 物理 1      | AP Physics 1: Algebra-Based | AP | 否  | 根据开学考试确定是否分配，不能自选                     |
@@ -86,7 +85,7 @@ slug: courses
 | 综合英语 (托福)      | Integrated English                      | 普通 | 部分 | 开学前可选课                  |
 | 综合英语 (SAT/ACT) | Honors English                          | 荣誉 | 部分 | 开学前可选课                  |
 | EFL            | EFL                                     | 普通 | 部分 | 靠后的英语班级参加 EFL           |
-| 阅读与写作          | Reading and Writing                     |    | 普通 | 部分                      | 靠前的英语班级参加阅读与写作 |
+| 阅读与写作          | Reading and Writing                     | 普通 | 部分                      | 靠前的英语班级参加阅读与写作 |
 
 :::info
 为了防止时间冲突，选修课程会被分为 4 组，每组只能选 1 个课程。具体情况请参考 [选课与更改课程安排](/procedures/course-selection)。

@@ -80,7 +80,7 @@ slug: courses
 | AP 计算机科学 A     | AP Computer Science A                   | AP | 否  |                         |
 | AP 心理          | AP Psychology                           | AP | 否  |                         |
 | AP 英语语言与写作     | AP English Language and Composition     | AP | 否  |                         |
-| 跨文化交流          | Intercultural Communications            | 荣誉 | 否  |                         |
+| 跨文化交流          | Intercultural Communications            | 普通 | 否  |                         |
 | 强化生物           | Honors Biology                          | 荣誉 | 否  |                         |
 | 强化化学           | Honors Chemistry                        | 荣誉 | 否  |                         |
 | 综合英语 (托福)      | Integrated English                      | 普通 | 部分 | 开学前可选课                  |

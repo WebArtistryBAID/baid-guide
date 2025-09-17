@@ -17,7 +17,7 @@ slug: courses-and-grades
 
 ## 课程
 
-常见的国际学校课程体系有 AP、A-Level 与 IB。**北京中学目前只提供 AP 体系的课程。** Advanced Placement (AP) 是大学理事会 ([College Board](https://collegeboard.org)) 的课程体系，在高中课程之外为学生提供拓展性的大学基础课程，每年 5 月组织统一考试，在 7 月初学生会获得 1 到 5 的数字分数，5 分为最高分。
+常见的国际学校课程体系有 AP、A Level 与 IB。**北京中学目前只提供 AP 体系的课程，但在 2026 年内可能开设 A Level 体系课程。** Advanced Placement (AP) 是大学理事会 ([College Board](https://collegeboard.org)) 的课程体系，在高中课程之外为学生提供拓展性的大学基础课程，每年 5 月组织统一考试，在 7 月初学生会获得 1 到 5 的数字分数，5 分为最高分。
 
 :::info
 

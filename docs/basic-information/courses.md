@@ -54,8 +54,8 @@ slug: courses
 | AP 物理 1 | AP Physics 1 | 4.5 | 否 | 年度 | 根据 [开学考试](/freshmen-timeline/entry-exam) 决定上物理、AP 物理 1 还是竞赛物理 |
 | AP 计算机科学 A | AP Computer Science A | 4.5 | 否 | 年度 |  |
 | 竞赛物理 | Honors Competition Physics | 4.3 | 否 | 年度 | 根据 [开学考试](/freshmen-timeline/entry-exam) 决定上物理、AP 物理 1 还是竞赛物理 |
-| 通用技术 | General Technologies | Sat/Unsat | 是 | 学期 | 十年级结束后上三周课程 |
-| 信息技术 | Information Technologies | Sat/Unsat | 是 | 学期 | 第一学期上课 |
+| 通用技术 | General Technologies | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
+| 信息技术 | Information Technologies | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
 | 美术 | Arts | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
 | 音乐 | Music | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
 | 体育 | P.E. | Sat/Unsat | 是 | 年度 |  |
@@ -127,23 +127,26 @@ slug: courses
 | 高阶经济 | Advanced Economics | 4.3 | 否 | 年度 |  |
 | 行为经济学 | Honors Behavioral Economics | 4.3 | 否 | 年度 |  |
 | AP 宏观经济 | AP Macroeconomics | 4.5 | 否 | 年度 |  |
-| AP 美国历史 | AP US History | 4.5 | 否 | 年度 | 由于政策原因，官方称为「人文社科 4」 |
+| AP 美国历史 | AP US History | 4.5 | 否 | 年度 | 由于政策原因，官方称为「人文社科 3」 |
 | AP 欧洲历史 | AP European History | 4.5 | 否 | 年度 | 由于政策原因，官方称为「人文社科 4」 |
 | AP 心理 | AP Psychology | 4.5 | 否 | 年度 |  |
 | AP 人文地理 | AP Human Geography | 4.5 | 否 | 年度 | 由于政策原因，官方称为「人文社科 5」 |
 | 专题数学 | Integrated Mathematics | 4.0 | 部分 | 年度 | 高阶数学、专题数学与 AP 统计 任选其一 |
+| 高阶数学 | Advanced Mathematics | 4.3 | 部分 | 年度 | 高阶数学、专题数学与 AP 统计 任选其一；本课内容为多元微积分 |
 | AP 统计 | AP Statistics | 4.5 | 部分 | 年度 | 高阶数学、专题数学与 AP 统计 任选其一 |
 | AP 计算机科学 A | AP Computer Science A | 4.5 | 否 | 年度 |  |
 | 高阶物理 | Advanced Physics | 4.3 | 否 | 年度 |  |
+| AP 物理 2 | AP Physics 2 | 4.5 | 否 | 年度 |  |
+| AP 物理 C: 力学 | AP Physics C: Mechanics | 4.5 | 否 | 年度 |  |
 | AP 物理 C: 电磁 | AP Physics C: Electricity and Magnetism | 4.5 | 否 | 年度 |  |
 | AP 生物 | AP Biology | 4.5 | 否 | 年度 |  |
 | AP 化学 | AP Chemistry | 4.5 | 否 | 年度 |  |
 | AP 环境科学 | AP Environmental Science | 4.5 | 否 | 年度 |  |
-| 美术 | Arts | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
-| 音乐 | Music | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
-| 艺术设计 | Art and Design | 4.0 | 否 | 年度 |  |
 | AP 艺术史 | AP Art History | 4.5 | 否 | 年度 |  |
 | AP 2D 艺术与设计 | AP 2D Art and Design | 4.5 | 否 | 年度 |  |
+| 艺术设计 | Art and Design | 4.0 | 否 | 年度 |  |
+| 美术 | Arts | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
+| 音乐 | Music | Sat/Unsat | 是 | 学期 | 学校灵活安排完成本合格考要求的时间 |
 | 体育 | P.E. | Sat/Unsat | 是 | 年度 |  |
 | 班会 | Homeroom Guidance | Sat/Unsat | 是 | 年度 |  |
 | 大学升学指导 | College Counseling | Sat/Unsat | 是 | 年度 |  |                                       

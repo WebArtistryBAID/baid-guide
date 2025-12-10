@@ -25,7 +25,7 @@ slug: courses
 
 | 课程 | 英文名称 | 成绩 | 必修 | 时长 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| Presentation | Presentation | 4.0 | 否 | 年度 |  |
+| 英语会话与交流 | Presentation | 4.0 | 否 | 年度 |  |
 | EFL | EFL | 4.0 | 部分 | 年度 | 根据 [开学考试](/freshmen-timeline/entry-exam) 决定上 EFL 还是 AP Seminar |
 | 综合英语 | Integrated English | 4.0 | 是 | 年度 |  |
 | 综合英语强化 | Accelerated English | 4.0 | 否 | 年度 | 额外的综合英语课时 |
